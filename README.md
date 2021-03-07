@@ -6,6 +6,8 @@ Laser Scanner : Faro
 
 Possible Error "Failed to load window layout"
 
+
+
 Solution : 
 
 1. Press [Load Default Layout]
