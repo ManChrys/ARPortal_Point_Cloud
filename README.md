@@ -4,8 +4,9 @@ Augmented Reality Portal with Point Cloud inside.
 Laser Scanner : Faro
 
 
-Possible Error "Failed to load window layout"
+Possible Error :
 
+![κατάλογος](https://user-images.githubusercontent.com/67521662/110241708-ddce4880-7f5a-11eb-8293-a18ec85f63dd.png)
 
 
 Solution : 
