@@ -1,8 +1,9 @@
 # ARPortal
 Augmented Reality Portal with Point Cloud inside.
 
-Laser Scanner : Faro
+Laser Scanner : Faro focus 3d X 120
 
+Unity Version: 2020.1.6f1
 
 Possible Error :
 
