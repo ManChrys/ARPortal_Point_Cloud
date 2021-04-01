@@ -5,12 +5,13 @@ Laser Scanner : Faro focus 3d X 120
 
 Unity Version: 2020.1.6f1
 
+
 Possible Error :
 
 ![κατάλογος](https://user-images.githubusercontent.com/67521662/110241708-ddce4880-7f5a-11eb-8293-a18ec85f63dd.png)
 
 
-Solution : 
+**Solution :**
 
 1. Press [Load Default Layout]
 2. Unity copies the correct default layout to CurrentLayout-default.dwlt
