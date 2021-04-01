@@ -1,5 +1,5 @@
 # ARPortal
-Augmented Reality Portal with Point Cloud inside.
+Augmented Reality Portal with Point Cloud.
 
 Laser Scanner : Faro focus 3d X 120
 
