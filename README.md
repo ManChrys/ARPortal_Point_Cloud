@@ -1,4 +1,5 @@
 # ARPortal
+
 Augmented Reality Portal with Point Cloud.
 
 Laser Scanner : Faro focus 3d X 120
@@ -21,3 +22,7 @@ Unity Version: 2020.1.6f1
 6. Unity corrupts the file during quitting
 7. Copy back the correct CurrentLayout-default.dwlt
 8. Start Unity again
+
+
+
+*Thesis (Greek Language)* : [Development-of-Visualization-Package-for-Spatial-Data.pdf](https://github.com/ManChrys/ARPortal_Point_Cloud/files/6572449/Development-of-Visualization-Package-for-Spatial-Data.pdf)
